@@ -123,6 +123,7 @@ label {
   font-weight: bold;
   border: none;
   transition: all 0.3s ease-in;
+  background-color: #e0e7ff;
 }
 
 .close_button:hover {
