@@ -118,3 +118,5 @@ const displayForm = () => {
 
 add_book_button.addEventListener("click", displayForm);
 form_close_button.addEventListener("click", hideForm);
+
+hideForm();
